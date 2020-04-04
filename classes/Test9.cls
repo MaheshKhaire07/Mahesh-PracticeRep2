@@ -1,4 +1,4 @@
-public class Test7 {
+public class Test9 {
 //ABC
 //XYZ
 //NMB
@@ -6,5 +6,4 @@ public class Test7 {
 //LLLL
 //123
 //456
-//PQR
 }
