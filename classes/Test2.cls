@@ -1,4 +1,4 @@
-public class Test1 {
+public class Test2 {
 //ABC
 //XYZ
 //NMB
