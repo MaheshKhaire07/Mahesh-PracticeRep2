@@ -1,10 +1,8 @@
-public class Test2 {
+public class Test12 {
 //ABC
 //XYZ
 //NMB
 //mmmm
 //LLLL
 //123
-//456
-//456
 }
